@@ -24,4 +24,6 @@ case class BalogoJaroWinklerSimilarity(left: Expression, right: Expression) exte
     nullSafeCodeGen(ctx, ev, (left, right) =>
       s"${ev.value} = $bsu.balogoJaroWinklerSimilarity($left, $right);")
   }
+
+  override protected def withNewChildrenInternal(newLeft: Expression, newRight: Expression): Expression = BalogoJaroWinklerSimilarity(newLeft, newRight)
 }
