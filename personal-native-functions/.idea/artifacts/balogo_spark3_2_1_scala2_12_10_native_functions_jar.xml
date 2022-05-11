@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="balogo-spark3.2.1-scala2.12.10-native-functions:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/balogo_spark3_2_1_scala2_12_10_native_functions_jar</output-path>
+    <root id="archive" name="balogo-spark3.2.1-scala2.12.10-native-functions.jar">
+      <element id="module-output" name="balogo-spark3.2.1-scala2.12.10-native-functions" />
+      <element id="extracted-dir" path="$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-text/1.9/commons-text-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar" path-in-jar="/" />
+      <element id="library" level="module" name="sbt: unmanaged-sources-and-docs" module-name="balogo-spark3.2.1-scala2.12.10-native-functions" />
+    </root>
+  </artifact>
+</component>

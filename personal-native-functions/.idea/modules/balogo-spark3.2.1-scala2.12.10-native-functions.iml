@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="root [file:/C:/Users/Raphael/Documents/repos/pyspark-native-functions/personal-native-functions/balogo-spark3.2.1-scala2.12.10-native-functions/]" external.linked.project.path="$MODULE_DIR$/../../balogo-spark3.2.1-scala2.12.10-native-functions" external.root.project.path="$MODULE_DIR$/../../balogo-spark3.2.1-scala2.12.10-native-functions" external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/../../balogo-spark3.2.1-scala2.12.10-native-functions/target/scala-2.12/classes" />
+    <output-test url="file://$MODULE_DIR$/../../balogo-spark3.2.1-scala2.12.10-native-functions/target/scala-2.12/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../balogo-spark3.2.1-scala2.12.10-native-functions">
+      <sourceFolder url="file://$MODULE_DIR$/../../balogo-spark3.2.1-scala2.12.10-native-functions/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../balogo-spark3.2.1-scala2.12.10-native-functions/src/test/scala" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../balogo-spark3.2.1-scala2.12.10-native-functions/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../balogo-spark3.2.1-scala2.12.10-native-functions/project/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.12.10:jar" level="project" />
+  </component>
+</module>
