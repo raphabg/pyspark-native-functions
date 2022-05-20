@@ -1,4 +1,9 @@
 pyt/python/python-3.8.10-win-x64.zip
 pyt/python/
+pyt/newpython/
 venv/
 .vscode/
+pyt/conventional.csv
+.gitignore
+.gitignore
+pyt/tf-idf.csv
