@@ -8,3 +8,6 @@ pyt/conventional.csv
 .gitignore
 .gitignore
 pyt/tf-idf.csv
+*.csv
+*.xlsx
+
