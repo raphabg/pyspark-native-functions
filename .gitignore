@@ -1,13 +1,11 @@
+*.csv
+*.xlsx
 pyt/python/python-3.8.10-win-x64.zip
 pyt/python/
 pyt/newpython/
 venv/
 fuzzyvenv/
 .vscode/
-pyt/conventional.csv
+pyt/out/
 .gitignore
-.gitignore
-pyt/tf-idf.csv
-*.csv
-*.xlsx
 
